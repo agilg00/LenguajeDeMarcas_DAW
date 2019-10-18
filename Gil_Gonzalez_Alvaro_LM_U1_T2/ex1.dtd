@@ -1,0 +1,6 @@
+<!ELEMENT iceCreamShop (iceCream+)>
+<!ELEMENT iceCream (chocolate, strawberry)>
+<!ATTLIST iceCream manufacture ID #REQUIRED>
+<!ELEMENT chocolate (#PCDATA)>
+<!ELEMENT strawberry (#PCDATA)>
+
