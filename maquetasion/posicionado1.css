@@ -1,0 +1,31 @@
+.container{
+    margin: 30px auto;
+    max-width: 80%;
+    width: 80%;  
+    background-color: rgb(49, 255, 152); 
+}
+
+nav div{
+    display: inline-block;
+    width: 20%;    
+    background-color: gray;
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 1%;
+}
+div:hover{
+    background-color: lightgray;
+}
+nav{
+    background-color: gray;
+    padding: 1%; 
+}
+
+figure{
+    background-color: white;
+    border: black;
+    border-style: solid;
+    border-radius: 3px;
+
+}

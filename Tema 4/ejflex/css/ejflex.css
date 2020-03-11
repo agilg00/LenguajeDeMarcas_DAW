@@ -1,0 +1,59 @@
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.container{
+
+    width: 90%;
+    margin: 0px auto;
+    font-family: "Lobster", cursive;
+    color: #666666;
+    
+
+}
+header{
+    text-align: center;
+    border-bottom: black 1px;
+    border-bottom-style: solid;
+}
+
+.content_wrapper nav div{
+    padding: 5%;
+    width: 30%;
+
+}
+.content_wrapper nav{
+    float: left;
+    margin-top: 2%;
+}
+.content_wrapper main{
+    border: gray;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    width: 55%;
+    float: left;
+    text-align: center;
+    margin-top: 2%;
+    
+   
+}
+img{
+    height: 300px;
+    border-radius: 10px;
+    margin: 2%;
+}
+.content_wrapper article{
+    float: left;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    text-align: center;
+}
+ 
+
+
+
+
+

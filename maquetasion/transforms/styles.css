@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+.container{
+    background-color: bisque;
+    padding: 3%;
+    width: 90%;
+    
+
+
+}
+.container div {
+    color: black;
+    border: black solid;
+    position: relative;
+    width: 10%;
+   
+}
+.drcha {
+
+    transform: rotate(90deg);
+    
+
+}
+.izqda{
+    transform: rotate(-90deg)
+
+}

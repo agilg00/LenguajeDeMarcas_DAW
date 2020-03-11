@@ -1,0 +1,35 @@
+table{
+
+    border: solid 1px black; 
+    width: 20%;
+    font: lighter;
+
+}
+th{
+    text-align: left;
+    padding: 5px;
+    *font: 1em Georgia;
+    color: brown; 
+}
+
+
+thead{
+    background-color: gray;
+    padding: 5px;
+    border: solid 1px black; 
+    width: 20%;
+}
+h2{
+    background-color: gray;
+    color: blue;
+    padding: 5px;
+    *font: 1em Georgia;
+    width: 35%;
+    text-align: center;
+    
+
+}
+.Year{
+    font-weight: bold;
+    padding-right: 40px;
+}

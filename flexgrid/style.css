@@ -1,0 +1,22 @@
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 90%;
+    margin: 0px auto;
+}
+.head{
+    display: flex;
+    padding: 2%;
+    background-color: green;
+    color: white;
+    font-family: Ubuntu;
+    flex-wrap: wrap-reverse;
+    
+    
+}
+.menutop{
+
+}
